@@ -7,9 +7,7 @@ function App() {
 
   return (<>
   
-  <div className="h-5/6"></div>
+  <p>welcome home</p>
   </>)
 }
-
-
-  
+export default  App;  
